@@ -23,3 +23,8 @@ while 7 in lista:
  lista.remove(7)
  print(lista)
  print("Acabou")
+
+ valoRemovido = lista.pop(2)
+ print(valorRemovido)
+ print(lista)
+ 
