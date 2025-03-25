@@ -41,3 +41,4 @@ print(quantidade_de_dois)
 lista_desordenada = [50, 20, 80, 10, 40]
 lista_desordenada.sort()
 print(lista_desordenada)
+
