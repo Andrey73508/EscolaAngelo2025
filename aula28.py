@@ -1,4 +1,4 @@
-# OUTRAS ESTRUTURAS DE DADOS: Tuplas, conjuntos e dicionários
+# OUTRAS ESTRUTURAS DE DADOS: TUPLAS, conjuntos e dicionários
 
 r = range(1, 9)
 print(r)

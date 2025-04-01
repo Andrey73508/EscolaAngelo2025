@@ -42,6 +42,6 @@ string = input("Digite uma string com espaços no inicio e no final:")
 print(string)
 print(string.strip() + "!")
 
-#  9. Crie uma função que receba um número inteiro e retorne uma string que o represente com separadores de milhares. Por exemplo, para o número 1234567, a função deve retornar “1,234,567”.
+#  9. CRIE uma função que receba um número inteiro e retorne uma string que o represente com separadores de milhares. Por exemplo, para o número 1234567, a função deve retornar “1,234,567”.
 numero = 1234567
 print(f"{numero:}")
